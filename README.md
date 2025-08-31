@@ -85,15 +85,16 @@ plot(t,s);
 
 Output Waveform
 
+<img width="512" height="365" alt="image" src="https://github.com/gaurav12360/FM/blob/main/FM.AC.png" />
 
 
 Tabulation
-
+<img width="512" height="365" alt="image" src="https://github.com/gaurav12360/FM/blob/main/WhatsApp%20Image%202025-08-31%20at%2018.57.17_621f3b5e.jpg" />
 
 
 Calculation
 
-
+<img width="512" height="365" alt="https://github.com/gaurav12360/FM/blob/main/WhatsApp%20Image%202025-08-31%20at%2018.57.33_2295f6c2.jpg" />
 
 Frequency Deviation Practical = 
 
