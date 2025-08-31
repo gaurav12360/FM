@@ -94,13 +94,13 @@ Tabulation
 
 Calculation
 
-<img width="512" height="365" alt="https://github.com/gaurav12360/FM/blob/main/WhatsApp%20Image%202025-08-31%20at%2018.57.33_2295f6c2.jpg" />
+<img width="512" height="365" alt="image" src="https://github.com/gaurav12360/FM/blob/main/WhatsApp%20Image%202025-08-31%20at%2018.57.33_2295f6c2.jpg" />
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 1790.88hz
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 4.871
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 4.8
 
 
 
