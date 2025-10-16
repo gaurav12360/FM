@@ -94,7 +94,8 @@ Tabulation
 
 Calculation
 
-<img width="512" height="365" alt="image" src="https://github.com/gaurav12360/FM/blob/main/WhatsApp%20Image%202025-08-31%20at%2018.57.33_2295f6c2.jpg" />
+![WhatsApp Image 2025-10-16 at 9 53 36 AM](https://github.com/user-attachments/assets/1b5f1c58-6938-4aab-8f46-e179567ddb36)
+
 
 Frequency Deviation Practical = 1790.88hz
 
